@@ -1,4 +1,4 @@
-### ABOUTme
+### ABOUTME
 - 🤖 Robotics student.
 
 <!--
