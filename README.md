@@ -5,11 +5,16 @@
 - 🤖 Robotics engineering student.
 
 ## My Experience
-### Languages such as
-- Python
-- C Family
-- HTML, css, JS
-- SQL
+### Languages
+- 🐍 Python
+- 🔠 C Family
+- 🕸️ HTML, CSS, JS
+- 📅 SQL
+### Hands-On
+- Developed a small desktop and web application.
+- Games to run in the command line :)
+---
+*To be continued...*
 <!--
 **Isaias-Is/Isaias-Is** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
