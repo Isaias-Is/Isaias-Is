@@ -1,5 +1,15 @@
 # ABOUTME
+## Currently
+- Learning Git & GitHub.
+- Learning ...
 - 🤖 Robotics engineering student.
+
+## My Experience
+### Languages such as
+- Python
+- C Family
+- HTML, css, JS
+- SQL
 <!--
 **Isaias-Is/Isaias-Is** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
