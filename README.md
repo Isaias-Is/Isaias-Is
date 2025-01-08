@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# ABOUTME
+- 🤖 Robotics engineering student.
 <!--
 **Isaias-Is/Isaias-Is** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
