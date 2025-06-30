@@ -10,9 +10,12 @@
 - 🔠 C Family
 - 🕸️ HTML, CSS, JS
 - 📅 SQL
+- 🦾 Matlab.
+- ♾️ Arduino.
 ### Hands-On
-- Developed a small desktop and web application.
+- Developed applications for web, desktop and mobile.
 - Games to run in the command line :)
+- Arduino for my own projetcs.
 ---
 *To be continued...*
 <!--
